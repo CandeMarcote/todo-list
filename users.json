@@ -1,0 +1,70 @@
+[
+    {
+        "user": "Cande",
+        "lists": [
+            {
+                "id": "1636674904595",
+                "name": "Home",
+                "tasks": [
+                    {
+                        "id": "1636674933529",
+                        "name": "aspirar",
+                        "complete": false
+                    },
+                    {
+                        "id": "1636674940139",
+                        "name": "comprar comida para gatos",
+                        "complete": false
+                    },
+                    {
+                        "id": "1636674947063",
+                        "name": "pagar gas",
+                        "complete": false
+                    }
+                ]
+            }
+
+        ]
+    },
+    {
+        "user": "Sven",
+        "lists": [
+            {
+                "id": "1636674911658",
+                "name": "Work",
+                "tasks": [
+                    {
+                        "id": "1636674922335",
+                        "name": "prepare project for December",
+                        "complete": false
+                    },
+                    {
+                        "id": "1636674966561",
+                        "name": "buy nails",
+                        "complete": false
+                    }
+                ]
+            },
+            {
+                "id": "1636675561667",
+                "name": "Home",
+                "tasks": [
+                    {
+                        "id": "1636675577007",
+                        "name": "fix the lamp",
+                        "complete": false
+                    },
+                    {
+                        "id": "1636676329256",
+                        "name": "buy bread",
+                        "complete": false
+                    }
+                ]
+            }
+
+        ]
+    }
+]
+
+
+
