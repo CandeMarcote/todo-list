@@ -419,6 +419,34 @@ form{
     }
 } */
 
+.swal-modal {
+    background-color: var(--clr-light);
+    border: 3px solid var(--clr-primary);
+}
+
+.swal-text {
+    padding: 17px;
+    display: block;
+    margin: 22px;
+    text-align: center;
+    color: var(--clr-title);
+
+    font-size: 1.3rem;
+}
+
+.swal-button {
+    padding: 7px 19px;
+    border-radius: 2px;
+    background-color: var(--clr-myLists);
+    font-size: 12px;
+    border: 1px solid var(--clr-title);
+    color: var(--clr-light);
+    text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.3);
+}
+
+.swal-button:hover{
+    background-color: var(--clr-mainText);
+}
 
 @supports (scrollbar-color: var(--clr-myLists) var(--clr-primary)) {
     * {

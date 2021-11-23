@@ -40,6 +40,7 @@ window.addEventListener('DOMContentLoaded', e=> {
     container.style.display = 'none';
     const selectedList = lists.find(list => list.id === selectedListId)
 
+    swal("Para una mejor experiencia, recomiendo usar Google Chrome")
     if (selectedList == null) {
         listDisplayContainer.style.display = 'none';
     } else {
